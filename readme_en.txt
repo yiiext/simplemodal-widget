@@ -23,6 +23,7 @@ $this->widget('ext.yiiext.widgets.simplemodal.ESimpleModalWidget', array(
 ~~~
 
 Another variant to use with beginWidget() и endWidget() methods
+
 ~~~
 [php]
 $this->beginWidget('ext.yiiext.widgets.simplemodal.ESimpleModalWidget', array(
